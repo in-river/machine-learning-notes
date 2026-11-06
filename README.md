@@ -1,27 +1,27 @@
-# Machine Learning Notes
+# 機械学習の学習メモ（Machine Learning Notes）
 
-A growing collection of notes, Python implementations, and experiments from my study of machine learning.
+機械学習を学ぶ中で作成した理解メモ、Pythonの実装、実験結果を少しずつ蓄積していくリポジトリです。
 
-I use this repository to organize what I learn, revisit key concepts, and understand algorithms through small experiments. I also write in English to practice explaining technical ideas.
+学んだ内容を整理し、重要な概念を振り返り、小さな実験を通じてアルゴリズムの仕組みを理解することを目指します。本文は日本語で記述し、技術用語には英語を併記します。
 
-## Learning Log
+## 学習記録（Learning Log）
 
-Each part includes notes, code examples, and results where relevant. This log is updated weekly as I make progress.
+学習の進捗に合わせて毎週更新します。各パートには、必要に応じて理解メモ、コード例、実験結果、考察を追加します。
 
-| Part | Topic | Status |
-|------|-------|--------|
-| 1 | Overview of Machine Learning | In progress |
+| パート | テーマ | 進捗 |
+|---|---|---|
+| 1 | [機械学習の全体像](01_machine_learning_overview/README.md) | 理解メモを追加 |
 
-## Repository Structure
+## リポジトリ構成（Repository Structure）
 
-Each part has its own folder containing:
+各パートをテーマごとのフォルダにまとめます。
 
-- `README.md`: Key concepts, explanations, and reflections.
-- `examples/`: Small Python implementations and experiments.
-- `results/`: Outputs, figures, and observations.
+- `README.md`：重要な概念、説明、振り返り、参考資料。
+- `examples/`：理解を確かめる小さなPythonの実装と実験。
+- `results/`：実行結果、グラフ、結果から分かったこと。
 
-Folders and files are added as the study progresses.
+フォルダやファイルは、学習の進捗に合わせて必要になった時点で追加します。
 
-## References
+## 参考資料（References）
 
-References are listed in each part alongside the relevant notes and implementations.
+参考にした教材やドキュメントは、各パートの関連するメモや実装とともに記載します。
